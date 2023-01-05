@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivangmokariya
-- 👀 I’m interested in money...
-- 🌱 I’m currently learning Nodejs
+- 👀 I’m interested in Backend...
+- 🌱 I’m currently learning Everthing that can help me. 
 - 💞️ I’m looking to collaborate on mySelf
 - 📫 How to reach me google It
 
